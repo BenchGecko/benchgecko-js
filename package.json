@@ -1,6 +1,6 @@
 {
   "name": "benchgecko",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "JavaScript client for the BenchGecko AI model data platform. Compare LLM benchmarks, estimate inference costs, and explore pricing across 55+ providers.",
   "main": "index.js",
   "types": "index.d.ts",
